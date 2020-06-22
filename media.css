@@ -1,0 +1,510 @@
+ @media screen and (max-width: 1700px) {
+     .footer_contact_us {
+     	    width: 1000px;
+     	   	margin-left:-500px;
+     }
+     .section_5__h_and_p{
+     	padding-left:100px;
+     }
+     .section_4_h_and_p{
+     	margin-right:100px;
+     }
+  }
+@media screen and (max-width: 1600px){
+	.section_5__h_and_p{
+     	padding-left:50px;
+     }
+     .section_4_h_and_p{
+     	margin-right:50px;
+     }
+}
+@media screen and (max-width: 1500px){
+	.section_4_h_and_p{
+		padding-top:100px;
+	}
+	.section_4__img{
+	width:666.58px;
+	height:600px;
+	}
+	.section_5__img{
+	width: 666.58px; 
+  	height: 600px;
+	}
+	.section_5__h_and_p{
+		padding-top:100px;
+	}
+	.navig {
+    padding-left: 100px;
+	}
+	.section_number_1 {
+	    padding-left: 100px;
+	}
+}
+@media screen and (max-width: 1500px){
+	.block_comment_3,.block_comment_6{
+		display:none;
+	}
+	.block_7,.comment_link{
+		width:915px;
+	}
+	.block_comment_2{
+		margin-left:55px;
+	}
+	.block_comment_5{
+		margin-left:55px;
+	}
+}
+@media screen and (max-width: 1400px){
+	.none{
+		width:469.24px;
+		margin:0 auto;
+		padding-left:499px;
+	}
+	.footer_linear{
+		height:708px;
+	}
+	.wrap {
+	    display: block;
+	    width:968.24px;
+	}
+	.none1{
+		width:968.24px;
+		margin:0 auto;
+	}
+	.div_ul_spisokk{
+	padding-right: 175.8px;
+	}
+	.div_ul_politicy{
+		padding-right: 149px;
+	}
+}
+@media screen and (max-width: 1300px){
+	.section_6__block_1 {
+	    padding-top: 373px;
+	    padding-left: 50px;
+	    width: 426px;
+	    height: 348px;
+	}
+	.slider {
+		width: 770px;
+	    margin-right: 0px;
+	}
+	.footer_contact_us {
+     	width: 900px;
+     	margin-left:-450px;
+     }
+     .div_ul_servic{
+     	padding:0;
+     }
+     .none1,.wrap{
+		width:819.24px;
+	}
+	.section_3_cards {
+    display:block;
+	}
+	.section_3_none_1{
+		width:509.41px;
+		margin:0 auto;
+	}
+	.section_3_card_3{
+		margin:0;
+	}
+	.section_3_none_2{
+		padding-top:100px;
+		width:509.41px;
+		margin:0 auto;
+	}
+	.section_3_cards {
+    width: 509.41px;
+	}
+	.section_3 {
+    padding-top: 252px;
+	}
+	.section_3_h_and_p {
+    padding-bottom: 100px;
+	}
+	.section_3_card_4 {
+    margin-left: 231px;
+	}
+	.navig {
+    padding-left: 50px;
+	}
+	.section_number_1 {
+	    padding-left: 50px;
+	}
+	.nav__list {
+	    margin-right: 50px;
+	}
+	.section_2__block_cards {
+	    display: block;
+	}
+	.section_2_none1{
+		width:799px;
+		margin:0 auto;
+	}
+	.section_2_none2{
+		width:383px;
+		margin:0 auto;
+	}
+	.section_2__card {
+	    margin-top: 70px;
+	}
+}
+@media screen and (max-width: 1350px){
+	.section_number_1 {
+   		 width: 350px;
+    	padding-top: 120px;
+	}
+}
+
+@media screen and (max-width: 1250px){
+	.section_6 {
+    	display: block;
+    	height: 1811px;
+	}
+	.slider{
+		margin:0 auto;
+		padding-top: 300px;
+	}
+	.section_6__block_1 {
+    padding-top: 373px;
+    width: 426px;
+    height: 348px;
+    margin: 0 auto;
+    text-align: center;
+	}
+	.section_6_p {
+    text-align: center;
+	}
+	.section_2__block_cards {
+    width: 799px;
+	}
+	.section_number_1 {
+	    width: 500px;
+	    margin: 0 auto;
+	    text-align:center;
+	}
+	header{
+		background-image: linear-gradient(-47deg, #5b3bff 0%, #2ecaf0 100%);
+		height:700px;
+		margin-bottom:150px;
+	}
+	.section__p,.section_h{
+		color:#fff;
+	}
+	.nav__logo__logo{
+		background: url("img/17.png")no-repeat;
+	}
+	.nav__logo_number{
+		color:#fff;
+	}
+	.img11111{
+		background:url("img/77.png");
+	}
+}
+@media screen and (max-width: 1220px){
+	.section_4__img {
+	    width: 499.91px;
+	    height: 450px;
+	}
+	.section_4_h_and_p {
+    	padding-top: 0px;
+	}
+	.section_5__img {
+	    width: 499.91px;
+	    height: 450px;
+	}
+	.section_5__h_and_p {
+	    padding-top: 0px;
+	}
+	.section_5 {
+	    padding-top: 295px;
+	}
+	.section_4_h_and_p {
+	    margin-right: 28px;
+	}
+	.section_5__h_and_p {
+	    padding-left: 38px;
+	}
+	.footer_contact_us {
+	    width: 800px;
+	    margin-left: -400px;
+	}
+	.footer_palace {
+	    padding-top: 90px;
+	    padding-left: 60px;
+	}
+	.contact_us_7 {
+	    margin-right: 50px;
+	}
+	.section_3_h_and_p {
+	    width: 761px;
+	}
+	.section_2__p {
+	    width: 739px;
+	    padding-bottom: 70px;
+	}
+	.none{
+		width:320.24px;
+	}
+	.footer_linear {
+	    height: 758px;
+	}
+	.nav__logo__phone {
+	    display: none;
+}
+@media screen and (max-width: 1010px){
+	.section_3 {
+	    padding-top: 152px;
+	}
+	.comment_link,.block_7{
+		width:430px;
+	}
+	.section_2_none1{
+		display:block;
+	}
+	.section_2__card,.block_comment {
+		margin:0 auto;
+		margin-top:50px;
+	}
+	.block_comment_5{
+		display:none;
+	}
+	.section_7__block_01 {
+		display:block;
+	}
+	.section_7__block_2 {
+	    padding-bottom: 100px;
+	}
+	.none {
+	    padding-left: 399px;
+	}
+	.div_ul_politicy {
+	    padding-right: 100px;
+	}
+	.section_4 ,.section_5{
+	    display: block;
+	}
+	.section_5__h_and_p{
+		text-align:center;
+		margin:0 auto;
+	}
+	.section_4_h_and_p{
+		text-align:center;
+		margin:0 auto;
+		margin-top:100px;
+	}
+	.section_4__img,.section_5__img{
+		margin-top:160px;
+	    width: 666.58px;
+	    height: 600px;
+	}
+	.section_4_h_and_p{
+		order:0;
+	}
+	.section_4__img{
+		order:1;
+	}
+	.section_4 {
+		display: flex;
+		flex-flow: 
+		wrap;
+		padding-top:0px;
+		margin-top: 0px;
+	}
+	.section_5 {
+	    padding-top: 195px;
+	}
+}
+@media screen and (max-width: 925px){
+	body.lock{
+		overflow:hidden;
+	}
+	.section_3 {
+	    padding-top: 152px;
+	    padding-bottom: 150px;
+	}
+	.navig{
+		z-index:5;
+	}
+	.header_burger{
+		margin-top: 10px;
+		position:absolute;
+		display:block;
+		margin-left:0 auto;
+		right:30px;
+		width:40px;
+		height:20px;
+	}
+	.header_burger.active{
+		margin:0 auto;
+	}
+	.header_burger span{
+		position:absolute;
+		background-color:white;
+		left:0;
+		width:100%;
+		height:2px;
+		top:9px;
+		transition:all 0.3s ease 0s;
+	}
+	.header_burger:before,
+	.header_burger:after{
+		content:' ';
+		background-color:#fff;
+		position:absolute;
+		width:100%;
+		height:2px;
+		left:0;
+		transition:all 0.3s ease 0s;
+	}
+	.header_burger:before{
+		top:0;
+	}
+	.header_burger:after{
+		bottom:0;
+	}
+	.nav__logo__logo,.nav__logo__phone,.header_burger{
+		z-index:5;
+	}
+	.nav__list{
+		margin:0;
+		transition:all 0.3s ease 0s;
+		top:-120%;
+		z-index:4;
+		background-image: linear-gradient(to bottom right, rgb(101, 115, 255), rgb(101, 122, 251), rgb(102, 128, 246), rgb(102, 135, 242), rgb(103, 141, 238), rgb(103, 148, 233), rgb(104, 154, 229), rgb(104, 161, 224), rgb(105, 167, 220), rgb(105, 174, 216), rgb(106, 180, 211), rgb(106, 187, 207));
+		position:fixed;
+		left:0;
+		width:100vw;
+		height:100vh;
+		padding:150px 0px 0px 0px ;
+	}
+	.nav__list.active{
+		top:0;
+	}
+	.nav__list ul li{
+		width:100%;
+		display:block;
+	}
+	.li_2{
+		margin-left:0px;
+		margin-top:20px;
+		text-align:center;
+	}
+	.li_3{
+		margin-left:0px;
+		margin-top:20px;
+		text-align:center;
+	}
+	.li_1{
+		text-align:center;
+	}
+	.nav__list ul li{
+		font-size:30px;
+	}
+	.nav__list_2{
+		width:500px;
+		margin:0 auto;
+	}
+	.footer_contact_us {
+		text-align:center;
+		display:block;
+	    width: 600px;
+	    margin-left: -300px;
+	}
+	.footer_palace{
+		padding-left:0;
+		padding-top:50px;
+	}
+	.contact_us_7{
+		margin-top:30px;
+		margin-right:0px;
+	}
+	.none1{
+		display:block;
+	}
+	.div_ul_politicy{
+		padding-right:0;
+		margin:0 auto;
+		width:320px;
+	}
+	.lilili{
+		text-align:center;
+	}
+	.footer_linear {
+	    padding-top: 223px;
+	}
+	.nonenone{
+		padding-top:50px;
+		width:320.24px;
+		margin:0 auto;
+	}
+	.none{
+		padding:0;
+		padding-top:50px;
+		width:320.24px;
+	}
+	.wrap{
+		width:100%;
+	}
+	.none1{
+		width:100%;
+	}
+	.footer_linear {
+	    height: 1108px;
+	}
+	.lolp{
+		width:330px;
+	}
+	.section_7__block_1 {
+	    width: 558px;
+	}
+	.section_3_h_and_p {
+	    width: 561px;
+	}
+	.section_2__p {
+	    width: 560px;
+	}
+}
+
+
+@media screen and (max-width: 768px){
+	/*body{
+		z-index:1;
+	}
+	*/
+	
+	.section_4{
+		display:block;
+	}
+	.section_4_h_and_p{
+		margin:200px 0px 0px 0px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.section_7__block_01 {
+		display:block;
+	}
+	.block_comment_5{
+		display:none;
+	}
+	.block_7{
+		width:430px;
+	}
+	.block_comment_2{
+		margin-left:0;
+		margin-top:50px;
+	}
+	.block_comment {
+		margin-right:0 auto;
+		margin-left:0 auto;
+	}
+	.comment_link{
+		max-width:768px;
+	}
+	.section_7__block_1{
+		width:600px;
+	}
+	
+
+}
